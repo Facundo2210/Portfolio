@@ -1,9 +1,11 @@
-import React from 'react';
+import {StyledContainer} from './styled';
 
 const Footer = () => {
 	return (
 		<div className='footer'>
-			<h1>Footer</h1>
+			<StyledContainer>
+				<h1> Made with 💪 by Facundo Cordoba</h1>
+			</StyledContainer>
 		</div>
 	);
 };
