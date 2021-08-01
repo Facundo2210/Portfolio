@@ -3,7 +3,7 @@ import {
 	CheckBoxWrapper,
 	CheckBoxLabel,
 	CheckBox,
-} from './styled';
+} from './styled.js';
 
 import {CgSun} from 'react-icons/cg';
 import {BiMoon} from 'react-icons/bi';

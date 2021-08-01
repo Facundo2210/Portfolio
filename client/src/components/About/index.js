@@ -1,5 +1,5 @@
 import React from 'react';
-import {StyledContainer} from './styled';
+import {StyledContainer} from './styled.js';
 import img from '../../imagenes/casa.png'; /*
 import img2 from '../../assets/linkedin.png'; */
 

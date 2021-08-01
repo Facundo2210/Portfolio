@@ -1,5 +1,5 @@
-import {StyledContainer} from './styled';
-import {arrayContact} from '../../utils/constants';
+import {StyledContainer} from './styled.js';
+import {arrayContact} from '../../utils/constants.js';
 import {RiArrowRightSLine} from 'react-icons/ri';
 
 const Contact = () => {

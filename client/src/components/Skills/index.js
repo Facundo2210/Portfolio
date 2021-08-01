@@ -1,6 +1,6 @@
 import React from 'react';
-import {StyledContainer} from './styled';
-import {arrayBack, arrayFront} from '../../utils/constants';
+import {StyledContainer} from './styled.js';
+import {arrayBack, arrayFront} from '../../utils/constants.js';
 const Skills = () => {
 	return (
 		<div id='Skills' className='skills'>

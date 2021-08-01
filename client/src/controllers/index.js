@@ -1,3 +1,3 @@
-import getInitialTheme from './getInitialTheme';
+import getInitialTheme from './getInitialTheme.js';
 
 export {getInitialTheme};

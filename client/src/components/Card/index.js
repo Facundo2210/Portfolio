@@ -1,4 +1,4 @@
-import {StyledContainer} from './styled';
+import {StyledContainer} from './styled.js';
 import {FiGithub, FiExternalLink} from 'react-icons/fi';
 import 'react-responsive-carousel/lib/styles/carousel.min.css'; // requires a loader
 import {Carousel} from 'react-responsive-carousel';
