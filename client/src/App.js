@@ -5,12 +5,12 @@ import storage from 'local-storage-fallback';
 import {ThemeProvider} from 'styled-components';
 import {lightTheme, darkTheme} from './utils/Themes';
 import {getInitialTheme} from './controllers';
-import Nav from './Components/Nav/Nav';
-import About from './Components/About/About';
-import Skills from './Components/Skills/Skills';
-import Projects from './Components/Projects/Projects';
-import Contact from './Components/Contact/Contact';
-import Footer from './Components/Footer/Footer';
+import About from './Components/About/About.js';
+import Skills from './Components/Skills/Skills.js';
+import Projects from './Components/Projects/Projects.js';
+import Contact from './Components/Contact/Contact.js';
+import Footer from './Components/Footer/Footer.js';
+import Nav from './Components/Nav/Nav.js';
 
 function App() {
 	const [theme, setTheme] = useState(getInitialTheme);

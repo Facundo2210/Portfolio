@@ -1,5 +1,5 @@
 import {StyledContainer} from './styled';
-import Card from '../Card/Card';
+import Card from '../Card/Card.js';
 import {myProjects} from '../../utils/constants';
 
 const Projects = () => {

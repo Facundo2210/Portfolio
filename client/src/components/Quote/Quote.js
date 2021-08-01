@@ -37,11 +37,10 @@ const Quote = () => {
 		<div className='quote'>
 			<StyledContainer>
 				<div className='div_quote'>
-
 					<div className='div_text'>
 						<span>
 							{Quote.quote}
-							<div className= 'div_quote_author'>-{Quote.author}</div>
+							<div className='div_quote_author'>-{Quote.author}</div>
 						</span>
 					</div>
 				</div>
