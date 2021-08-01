@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React, {useEffect, useState} from 'react';
-import {StyledContainer} from './styled';
+import {StyledContainer} from './styled.js';
 
 const Quote = () => {
 	const [Result, SetResult] = useState([]);
