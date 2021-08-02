@@ -101,10 +101,10 @@ export const arrayContact = [
 		icon: SiGmail,
 		image:
 			'https://raw.githubusercontent.com/Alonxx/Portfolio/495908bd349a004233796da43781d1de42a1f5b5/src/assets/mail.svg',
-		text: 'fanicope@hotmail.com',
+		text: 'Send WhatsApp',
 		text2: null,
 		action: 'copy',
-		link: 'mailto: fanicope@hotmail.com',
+		link: 'https://api.whatsapp.com/send/?phone=5491134605703&text&app_absent=0',
 		inIcon: FiMail,
 		className: 'icon_gmail',
 	},
