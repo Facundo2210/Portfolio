@@ -26,7 +26,7 @@ export const myProjects = [
 			'https://camo.githubusercontent.com/360b6863ee1836bdf09a2ed70c63a39f0af575712be99921880f910a56112790/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646c657862726372762f696d6167652f75706c6f61642f76313632323132333831382f50726f79656374732f452d636f6d6d657263652f332d325f617a746e39712e706e67',
 		],
 		github: 'https://github.com/josegarrera/ecommerce',
-		web: 'https://www.youtube.com/watch?v=DCK1YbJXbGQ',
+		web: 'https://store-commerce-pi.vercel.app/',
 	},
 ];
 
